@@ -79,7 +79,7 @@ export default function App() {
     if (dim.width <= dim.height) {
       setOrientation('portrait');
     } else {
-      setOrientation('landscape');
+      setOrientation('landscape'); 
     }
   });
 
